@@ -6623,8 +6623,8 @@ msgstr "Số dư đầu kỳ"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/screens/partner_list/partner_editor/partner_editor.xml:0
 #, python-format
-msgid "State"
-msgstr "Trạng thái"
+msgid "Country State"
+msgstr "Tỉnh thành"
 
 #. module: point_of_sale
 #. odoo-javascript

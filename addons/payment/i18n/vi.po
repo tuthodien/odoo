@@ -1603,8 +1603,8 @@ msgstr "Giao dịch nguồn"
 #: model:ir.model.fields,field_description:payment.field_payment_transaction__partner_state_id
 #: model_terms:ir.ui.view,arch_db:payment.payment_provider_search
 #: model_terms:ir.ui.view,arch_db:payment.payment_transaction_form
-msgid "State"
-msgstr "Trạng thái"
+msgid "Country State"
+msgstr "Tỉnh thành"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_transaction__state
